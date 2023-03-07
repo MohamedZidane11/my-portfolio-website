@@ -183,3 +183,12 @@ nav ul li a:hover {
     width: 50%;
     padding-top: 2rem;
 }
+
+.services {
+    background-color: var(--bgColor-1);
+    padding: 3rem var(--padding);
+}
+
+.text-center {
+    text-align: center;
+}
