@@ -212,3 +212,23 @@ nav ul li a:hover {
     color: var(--primaryColor);
     padding: 2rem;
 }
+
+.skills {
+    background-color: var(--bgColor-2);
+    padding: 3rem var(--padding);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#skills {
+    color: var(--secondaryColor);
+}
+
+.skills .container-images {
+    width: 35%;
+}
+
+.skills .container-images img {
+    width: 100%;
+}
