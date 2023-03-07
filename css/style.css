@@ -91,7 +91,7 @@ nav ul li a:hover {
     justify-content: space-between;
 }
 
-.container-text {
+.container-texts {
     position: relative;
     bottom: 70px;
 }
@@ -126,14 +126,14 @@ h4 {
     transform: scale(1.3);
 }
 
-.container-images {
+.home .container-images {
     width: 40%;
     height: 90%;
     position: relative;
     align-self: flex-end;
 }
 
-.container-images img {
+.home .container-images img {
     position: absolute;
     bottom: 0;
     height: 100%;
@@ -142,10 +142,10 @@ h4 {
     transition: bottom 1s, left 1s;
 }
 
-.container-images:hover .shape {
+.home .container-images:hover .shape {
     bottom: 40px;
 }
 
-.container-images:hover .mypic {
+.home .container-images:hover .mypic {
     left: 45%;
 }
