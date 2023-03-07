@@ -232,3 +232,26 @@ nav ul li a:hover {
 .skills .container-images img {
     width: 100%;
 }
+
+.skills .container-skills {
+    width: 60%;
+}
+
+.content-skills {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.content-skills img {
+    width: 70px;
+    height: 70px;
+}
+
+.skill {
+    background-color: var(--lightColor);
+    border-radius: 50%;
+    margin: 0 2rem 2rem 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
