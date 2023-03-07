@@ -192,3 +192,23 @@ nav ul li a:hover {
 .text-center {
     text-align: center;
 }
+
+.box {
+    display: flex;
+    justify-content: space-between;
+}
+
+.box .card{
+    width: 250px;
+    background-color: var(--bgColor-2);
+    border-radius: 20px;
+    padding: 1.3rem 2rem;
+    text-align: center;
+}
+
+.box .card i {
+    font-size: 3.12rem;
+    text-align: center;
+    color: var(--primaryColor);
+    padding: 2rem;
+}
