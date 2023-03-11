@@ -413,5 +413,11 @@ menu.is-active span {
     .about .container-texts {
         width: 100%;
     }
+
+    .box {
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 1rem;
+    }
 }
 
