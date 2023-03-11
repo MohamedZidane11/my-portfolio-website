@@ -419,5 +419,24 @@ menu.is-active span {
         flex-wrap: wrap;
         gap: 1rem;
     }
+
+    .skills .container-images {
+        display: none;
+    }
+
+    .skills .container-skills {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .skills .container-skills .content-skills {
+        margin-top: 2rem;
+        align-items: center;
+        justify-content: center;
+    }
+
 }
 
