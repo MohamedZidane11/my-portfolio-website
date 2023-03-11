@@ -379,4 +379,9 @@ footer .content-footer .end {
     h3 {
         margin-bottom: 70px;
     }
+    
+    #menu {
+        display: block;
+    }
 }
+
