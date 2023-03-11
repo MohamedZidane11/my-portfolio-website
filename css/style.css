@@ -361,6 +361,10 @@ footer .content-footer .end {
         background-color: var(--bgColor-2);
     }
 
+    nav ul.is-active {
+        display: block;
+    }
+
     nav ul li {
         display: block;
         text-align: center;
