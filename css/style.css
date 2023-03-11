@@ -405,5 +405,13 @@ menu.is-active span {
     #menu {
         display: block;
     }
+
+    .about .container-images{
+        display: none;
+    }
+
+    .about .container-texts {
+        width: 100%;
+    }
 }
 
