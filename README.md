@@ -1,6 +1,8 @@
 # 🌟 Project Name
 A responsive portfolio website built with HTML, CSS, and JavaScript showcasing my web development projects
 
+<img src="https://github.com/MohamedZidane11/my-portfolio-website/blob/main/Capture.PNG" width=850>
+
 ## 🛠️ Built With
 
 - **Frontend:** HTML5, CSS3, JavaScript
